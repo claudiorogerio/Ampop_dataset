@@ -4,4 +4,4 @@ A new musical genre dataset from region of Amazonia Internacional involved andin
 ## References
 - SILVA, Douglas; ZAMPAR, Lucas; RODRIGUES, Felipe; GOMES, Cláudio. Modelo automático de classificação de gêneros musicais amazônicos. In: SIMPÓSIO BRASILEIRO DE COMPUTAÇÃO MUSICAL (SBCM), 18. , 2021, Recife. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2021 . p. 225-228. DOI: https://doi.org/10.5753/sbcm.2021.19453.
 
-- SILVA, D., & GOMES, C. (2022). Modelo de aprendizado de máquina para classificação de gêneros musicais populares da região amazônica legal internacional. Revista Eletrônica De Iniciação Científica Em Computação, 20(4). https://sol.sbc.org.br/journals/index.php/reic/article/view/2772
+- SILVA, D.; GOMES, C. Modelo de aprendizado de máquina para classificação de gêneros musicais populares da região amazônica legal internacional. Revista Eletrônica de Iniciação Científica em Computação, [S. l.], v. 20, n. 4, 2022. Disponível em: https://sol.sbc.org.br/journals/index.php/reic/article/view/2772. Acesso em: 17 jul. 2023.
